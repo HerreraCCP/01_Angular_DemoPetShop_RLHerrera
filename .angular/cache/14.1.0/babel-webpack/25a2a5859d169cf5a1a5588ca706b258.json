@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Cart {\n  constructor(items = []) {\n    this.items = items;\n  }\n\n}","map":null,"metadata":{},"sourceType":"module"}

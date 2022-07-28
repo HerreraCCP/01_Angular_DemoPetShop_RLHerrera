@@ -55,11 +55,6 @@ This project has been created for the purpose of studies in .Angular and I used 
 
 ### Built With
 
-* [Download .NET]
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -69,17 +64,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-.Net Core - is required to run this project..
-* [Download .NET]
+.NodeJS - is required to run this project..
+* [NodeJs](https://nodejs.org/en/download/)
 
 MySql - I used for the database we are using MySql
-* [MySql]
+* [MySql](https://dev.mysql.com/downloads/installer/)
 
 ### Installation
 
 1. Visit the official Node.js page and download the latest.
    ```
-   [NodeJs]
+   [NodeJs](https://nodejs.org/en/download/)
    ```
 2. Install TypeScript 
    ```
@@ -91,11 +86,11 @@ MySql - I used for the database we are using MySql
    ```  
 5. Install MySql.
    ```
-   [MySql]
+   [MySql](https://dev.mysql.com/downloads/installer/)
    ```
 6. Clone the project.
     ```
-   [Project]
+   [Project](https://github.com/HerreraCCP/01_Angular_Demo_RLHerrera_PetShop)
    ```
 7. Clone the project.
     ```

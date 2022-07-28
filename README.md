@@ -166,6 +166,3 @@ Use this space to list resources you find helpful and would like to give credit 
 [linkedin-url]: https://www.linkedin.com/in/rodrigo-herrera-0404/
 
 [product-screenshot]: images/screenshot.png
-[NodeJs](https://nodejs.org/en/download/)
-[MySql](https://dev.mysql.com/downloads/installer/)
-[Project](https://github.com/HerreraCCP/01_Angular_Demo_RLHerrera_PetShop)
